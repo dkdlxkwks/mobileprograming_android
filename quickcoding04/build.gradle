@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "org.androidtown.myapplication"
+        applicationId "org.androidtown.quickcoding04"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
